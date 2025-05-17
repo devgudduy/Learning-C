@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
   int a = 5; // Declare an integer variable 'a' and initialize it to 5
