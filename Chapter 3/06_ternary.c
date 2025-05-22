@@ -8,7 +8,6 @@
 // If true, print "a is greater than b"; otherwise, print "b is greater than a".
 // The ternary operator is often used for simple conditional assignments or expressions.
 // It can make the code more concise and readable, but it should be used judiciously.
-
 int main()
 {
   int a = 25;
