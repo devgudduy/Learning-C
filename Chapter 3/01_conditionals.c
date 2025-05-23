@@ -16,5 +16,6 @@ int main()
     printf("Age is divisible by 5\n");
     printf("We are inside the second if block\n");
   }
+  
   return 0;
 }
