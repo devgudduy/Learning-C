@@ -11,5 +11,6 @@ int main()
   ++i;
   printf("The value of i is %d\n", i); // 12
   i--;
+  printf("The value of i is %d\n", i); // 11
   return 0;
 }
