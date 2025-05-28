@@ -10,5 +10,6 @@ int main()
   printf("The value of i is %d\n", i); // 11
   ++i;
   printf("The value of i is %d\n", i); // 12
+  i--;
   return 0;
 }
