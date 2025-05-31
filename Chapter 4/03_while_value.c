@@ -8,6 +8,5 @@ int main()
     printf("The value of a is %d\n", a);
     a++;
   }
-
   return 0;
 }
