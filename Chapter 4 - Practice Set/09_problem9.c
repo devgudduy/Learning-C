@@ -1,5 +1,6 @@
 // 8. repeat the previous program to calculate the factorial of a number using while loop
 #include <stdio.h>
+
 int main()
 {
   int factorial = 1;
