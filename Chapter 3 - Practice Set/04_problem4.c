@@ -1,9 +1,11 @@
-#include <stdio.h>
-int main()
-{
   /*
   4. Write a program to find whether a year entered by the user is a leap year or not. Take year as an input from the user.
   */
+
+#include <stdio.h>
+
+int main()
+{
   printf("Enter your year: ");
   int year;
   scanf("%d", &year);
