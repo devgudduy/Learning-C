@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main()
 {
   // Which of the following is invalid in C?
